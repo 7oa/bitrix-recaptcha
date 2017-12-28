@@ -6,8 +6,8 @@ $arComponentDescription = array(
 	"DESCRIPTION" => GetMessage("MAIN_FEEDBACK_COMPONENT_DESCR"),
 	"ICON" => "/images/feedback.gif",
 	"PATH" => array(
-		"ID" => "awesome_components",
-		"NAME" => GetMessage("GROUP_AWESOME"),
+		"ID" => "newcomponents",
+		"NAME" => "newcomponents",
 	),
 );
 ?>
